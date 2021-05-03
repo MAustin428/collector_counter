@@ -29,4 +29,4 @@ def simulate(trials = 100, set_size = 700, cutoff = 696):
 
 sim = simulate(trials = 1000, set_size = 700, cutoff = 696)
 print('Average stickers needed to get to 696: ', sim[0])
-print ('Average stickers needed to get to 700:', sim[1])
+print ('Average stickers needed to get to 700: ', sim[1])
